@@ -18,7 +18,7 @@ A cool, interactive web application that lets you explore country data using the
 - **Dynamic Routing:** Leverages React Router V7 to handle multiple routes and dynamic URL parameters.
 - **Data Fetching:** Uses route loaders to retrieve country data from the REST Countries API.
 - **Search & Filter:** Users can search for countries by name and filter by region.
-- **Responsive UI:** Styled with Tailwind CSS to create a modern, responsive interface.
+- **Responsive UI:** Styled with Tailwind CSS to create a modern, responsive interface
 - **Modular Code:** Organized into reusable components for easy scaling and maintenance.
 
 ## Demo
