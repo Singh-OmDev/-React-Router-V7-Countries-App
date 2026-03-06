@@ -29,7 +29,7 @@ _(Replace `#` with your live demo link when available)_
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Clone the repository:*
 
    ```bash
    git clone https://github.com/yourusername/mini-rest-countries-explorer.git
