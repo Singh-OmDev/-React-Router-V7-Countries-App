@@ -46,7 +46,7 @@ _(Replace `#` with your live demo link when available)_
 
    ```bash
    npm run dev
-   ```
+   ``
 
 4. **Open your browser and navigate to:**
 
